@@ -113,7 +113,7 @@ public class MealDAO {
         int id = 0;
         
         if (connection.openConnection()) {
-            ResultSet result = connection.executeSQLSelectStatement("SELECT Preporationtime FROM Meal WHERE ProductID = " + mealProductID + "");
+            ResultSet result = connection.executeSQLSelectStatement("SELECT Preporationtime FROM Meal WHERE ProductID = " + mealProductID + " ORDER BY Preporationtime ASC");
             
             try {
                 while (result.next()) {

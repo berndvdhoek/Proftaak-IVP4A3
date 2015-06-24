@@ -3,13 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/DatastoreLayer/DatabaseConnection.java</file>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/DatastoreLayer/EmployeeDAO.java</file>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/PresentationLayer/LoginGUI.java</file>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/Main/Main.java</file>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/BusinessLogic/KitchenManager.java</file>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/PresentationLayer/KeukenGUI2.java</file>
-            <file>file:/C:/Users/ferdinand/Documents/GitHub/IVP4A3-Proftaak-master/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/PresentationLayer/KeukenGUI.java</file>
+            <file>file:/C:/Users/Michel/Documents/GitHub/Proftaak-IVP4A3/KeukenSysteem/src/main/java/infosys/hartigehap/Kitchen/DatastoreLayer/MealDAO.java</file>
         </group>
     </open-files>
 </project-private>
